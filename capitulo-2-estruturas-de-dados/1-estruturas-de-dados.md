@@ -1,5 +1,14 @@
 # Estruturas de Dados
 
+<!--toc:start-->
+
+- [Estruturas de Dados](#estruturas-de-dados)
+  - [Introdução](#introdução)
+  - [Estruturas de Dados Lineares mais comuns](#estruturas-de-dados-lineares-mais-comuns)
+  - [Estruturas de Dados Não Lineares mais comuns](#estruturas-de-dados-não-lineares-mais-comuns)
+  - [Resumo de Complexidade (Time Complexity)](<#resumo-de-complexidade-(time-complexity)>)
+  <!--toc:end-->
+
 ## Introdução
 
 O primeiro ponto para estudar DSA é entender que as estruturas se dividem em **lineares** e **não lineares**.
