@@ -1,5 +1,14 @@
 # Conceitos Adicionais
 
+<!--toc:start-->
+
+- [Conceitos Adicionais](#conceitos-adicionais)
+  - [Ponteiros e Referências](#ponteiros-e-referências)
+  - [Recursão](#recursão)
+  - [Iteração](#iteração)
+  - [Tipos de Dados e Tamanho em Bytes](#tipos-de-dados-e-tamanho-em-bytes)
+    <!--toc:end-->
+
 ## Ponteiros e Referências
 
 Em linguagens atuais como TypeScript e Java, não lidamos diretamente com ponteiros (endereços de memória editáveis) como em C ou C++. No entanto, o conceito de **referências** é fundamental.
